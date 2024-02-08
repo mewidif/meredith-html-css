@@ -77,3 +77,21 @@ figcaption {
   margin-top: 2px;
   margin-bottom: 20px;
 }
+
+.intro {
+  margin-bottom: 20px;
+  clear: both;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+ol li {
+  margin-top: 8px;
+}
